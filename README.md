@@ -1,5 +1,5 @@
 ## Hi, I'm Ole! :wave:
-<hr>
+
 I'm a 20 y/o CS student from Germany (he/him), trying to learn a bunch of stuff. I've tried out a bunch of languages and tech, but I feel pretty comfortable with NodeJS.
 <hr>
 
