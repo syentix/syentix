@@ -19,4 +19,4 @@ That's all I guess, enjoy your stay :smile:
 
 <hr>
 
-[![Syentix's github stats](https://github-readme-stats.vercel.app/api?username=syentix)](https://github.com/anuraghazra/github-readme-stats)
+[![Syentix's github stats](https://github-readme-stats.vercel.app/api?username=syentix&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
