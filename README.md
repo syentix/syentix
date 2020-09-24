@@ -17,5 +17,6 @@ I'm a 20 y/o CS student from Germany (he/him), trying to learn a bunch of stuff.
 
 That's all I guess, enjoy your stay :smile:
 
+<hr>
 
-
+[![Syentix's github stats](https://github-readme-stats.vercel.app/api?username=syentix)](https://github.com/anuraghazra/github-readme-stats)
