@@ -1,6 +1,6 @@
 ## Hi, I'm Ole! :wave:
 
-I'm a 20 y/o CS student from Germany (he/him), trying to learn a bunch of stuff. I've tried out a bunch of languages and tech, but I feel pretty comfortable with NodeJS.
+I'm a 21 y/o CS student from Germany (he/him), trying to learn a bunch of stuff. I've tried out a bunch of languages and tech, but I feel pretty comfortable with NodeJS.
 <hr>
 
 ### What I like to use:
