@@ -1,4 +1,4 @@
-## Hi, I'm Ole! :wave:
+## Hi, I'm Syentix! :wave:
 
 I'm a 21 y/o CS student from Germany (he/him), trying to learn a bunch of stuff. I've tried out a bunch of languages and tech, but I feel pretty comfortable with NodeJS.
 <hr>
