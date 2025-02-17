@@ -1,19 +1,14 @@
 ## Hi, I'm Syentix! :wave:
 
-I'm a 21 y/o CS student from Germany (he/him), trying to learn a bunch of stuff. I've tried out a bunch of languages and tech, but I feel pretty comfortable with NodeJS.
+I'm a CS student from Germany (he/him), trying to learn a bunch of stuff. I've tried out a bunch of languages and tech, but I feel pretty comfortable with NodeJS.
 <hr>
 
 ### What I like to use:
 
-* Vue (Frontend, when I actually touch a frontend)
-* Express and MongoDB (Backend)
-* :heart: Golang and Python for scripting :smile:
+* Vue for frontend
+* Have been using .NET for backends, but I like a good ol' js backend
+* Python for scripting, would like to delve into Rust :smile:
 <hr>
-
-### Some other fun facts! :balloon:
-
-* I love to play and watch :baseball:
-* I always like to work with people on something and get it done together :muscle:
 
 That's all I guess, enjoy your stay :smile:
 
